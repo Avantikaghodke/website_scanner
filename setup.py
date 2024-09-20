@@ -15,7 +15,7 @@ setup(
     description         =   "The Multi-Tool Web Vulnerability Scanner.",
     long_description    =   README,
     long_description_content_type = "text/markdown",
-    url                 =   "https://github.com/Atharv787/website_scanner",
+    url                 =   "https://github.com/Avantikaghodke/website_scanner.git",
     author              =   "sh4nx0r",
     py_modules          =   ['webscan',],
     install_requires    =   [],
